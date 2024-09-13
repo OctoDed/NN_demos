@@ -8,6 +8,7 @@ This repostory contains demo cases for neural networks trainig
 
 # Big cats classification
 This case shows basic image classification based on images of wild cats, such as lions, tigers etc using [10 Big Cats of the Wild](https://www.kaggle.com/datasets/gpiosenka/cats-in-the-wild-image-classification) dataset with pretrained VGG19 model.
+
 ![Test results of trained VGG19 model](/cats_classification/cats_classification_example.png)
 
 # MNIST classification
